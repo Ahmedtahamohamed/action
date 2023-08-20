@@ -13,7 +13,7 @@ import Regestration from '../src/components/Regestration/Regestration';
 import Notfound from '../src/components/Notfound/Notfound'
 import Tvshowsdetails from '../src/components/Tvshowsdetails/Tvshowsdetails'
 import Tvdetails from './components/Tvdetails/Tvdetails';
-import Tvshow from '../../trending-movies/src/components/Tvshow/Tvshow'
+import Tvshow from './components/Tvshow/Tvshow';
 import People from './components/People/People';
 import { useState } from 'react';
 function App() {
